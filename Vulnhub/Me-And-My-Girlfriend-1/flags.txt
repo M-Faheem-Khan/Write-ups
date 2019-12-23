@@ -1,0 +1,2 @@
+Flag 1: gfriEND{2f5f21b2af1b8c3e227bcf35544f8f09}
+Flag 2: gfriEND{56fbeef560930e77ff984b644fde66e7}

@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Mon Dec 23 00:41:52 2019 as: nmap -sC -sV -oA me-and-my-girlfriend-1.nmap 192.168.2.17
+Host: 192.168.2.17 ()	Status: Up
+Host: 192.168.2.17 ()	Ports: 22/open/tcp//ssh//OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.7 ((Ubuntu))/	Ignored State: filtered (998)
+# Nmap done at Mon Dec 23 00:42:04 2019 -- 1 IP address (1 host up) scanned in 12.09 seconds
